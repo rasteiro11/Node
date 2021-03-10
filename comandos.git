@@ -1,0 +1,20 @@
+
+----------Comandos Basicos do Git----------
+
+git init // initialize Local git Repository
+
+git add <file> // add file to stage area
+
+git status // check which files are ready to commit
+
+git commit // take everything that it`s on the stage area and bring it to the local repo
+
+git push // push local repo to remote repo
+
+git pull // pull latest form remote repository
+
+git clone // clone repo into a new directory
+
+
+git add . // adds everything
+
