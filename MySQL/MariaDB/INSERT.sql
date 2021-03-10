@@ -1,0 +1,1 @@
+INSERT INTO tb_cursos(ativo, carga_horaria, data_cadastro, id_curso, imagem_curso, investimento, nome_curso, resumo)values(1, 35, '2018-07-17' 12:25:35, 2, 'curso_angular.jpg', 575.87, 'curso de angular', 'curso destinado para recem formados com interesse na area de desenvolvimento front end');
